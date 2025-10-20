@@ -2,7 +2,7 @@
 ## Curriculun Vitae
 JAIR CALEB MENDEZ CUENCA
 Ingeniero de Software con Inteligencia Artificial
-+51 965 374 161, jairmendezcuenca@gmail.com, Independencia, Lima, Perú
++51 965 374 161, jairmendezcuenca@gmail.com, Independencia, Lima, Perú.
 _______________________________________________________________
 PERFIL
 Estudiante de Ingeniería de Software con especialización en Inteligencia Artificial.
